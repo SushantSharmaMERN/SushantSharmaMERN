@@ -4,10 +4,14 @@
 
 
 
+
+
+
+
 <h1 align="left">Hi 👋, I'm Sushant Sharma</h1>
 <h3 align="left">I am a Versatilist and Frontend Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/SushantSharmaMERN/SushantSharmaMERN/assets/145661449/0df6b54f-a059-48f5-b0a8-77bc1f360784" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
  🔭 I’m currently working on **Something New**
 
