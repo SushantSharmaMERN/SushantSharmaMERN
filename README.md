@@ -11,7 +11,7 @@
 <h1 align="left">Hi 👋, I'm Sushant Sharma</h1>
 <h3 align="left">I am a Versatilist and Frontend Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
-<img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-24297652" width="360px"/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="360px"/>
 
  🔭 I’m currently working on **Something New**
 
