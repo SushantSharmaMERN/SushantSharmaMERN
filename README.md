@@ -55,9 +55,9 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/%20-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/%20-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/%20-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 
 <br/><br/>
 
