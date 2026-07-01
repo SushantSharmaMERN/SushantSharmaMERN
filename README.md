@@ -53,36 +53,17 @@
 
 **CMS, E-commerce & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify,openai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 
 <br/><br/>
 
 **Cloud & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,heroku,netlify,vercel,git,github,npm&theme=dark" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SushantSharmaMERN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantSharmaMERN&theme=tokyonight&hide_border=true&layout=compact" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SushantSharmaMERN&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SushantSharmaMERN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SushantSharmaMERN&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
