@@ -1,74 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1120,50:12233e,100:1a3a5c&height=140&text=Sushant%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20Developer%20%C2%B7%20AI-Powered%20Builder&descAlignY=68&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020510,50:0B1E4A,100:1F6BFF&height=210&section=header&text=Sushant%20Sharma&fontSize=50&fontColor=F4F7FF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%7C%20Laravel%20%7C%20WordPress%20%7C%20Shopify&descAlignY=58&descSize=17" width="100%" alt="Sushant Sharma – Full Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=const+developer+%3D+%7B+role%3A+%27MERN+Stack+Dev%27+%7D%3B;stack%3A+%5B%27MongoDB%27%2C+%27Express%27%2C+%27React%27%2C+%27Node%27%5D;platforms%3A+%5B%27Shopify%27%2C+%27WordPress%27%2C+%27Laravel%27%5D;aiTools%3A+%5B%27ChatGPT%27%2C+%27Claude%27%2C+%27Copilot%27%2C+%27Cursor%27%5D&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=20&pause=1200" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3D8BFF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%40+Stratolution;MERN+Stack+%E2%80%A2+Laravel+%E2%80%A2+WordPress+%E2%80%A2+Shopify;Building+scalable+web+apps+%26+e-commerce" alt="Intro" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SushantSharmaMERN&color=58A6FF&style=flat-square&label=Profile+Views)
-[![](https://visitcount.itsvg.in/api?id=shwetra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<br/>
-
-## 🔭 What I'm Doing
-
-- Currently working on **Something New**
-- Leveraging **AI tools** (ChatGPT, Claude, Copilot, Cursor) to build faster & smarter
-- Exploring **Next.js** & advanced React patterns
-- Delivering end-to-end products across **MERN, Shopify, WordPress & Laravel**
-
-## 📫 Find Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SushantSharmaMERN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-940114279/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantsharmafrontenddev@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white)](#########)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
+<p>
+<a href="https://www.linkedin.com/in/sushantsharma-dev/"><img src="https://img.shields.io/badge/LinkedIn-sushantsharma--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sushantsharmafdev@gmail.com"><img src="https://img.shields.io/badge/Email-sushantsharmafdev%40gmail.com-1F6BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=SushantSharmaMERN&color=1F6BFF&style=for-the-badge&label=Profile+views" alt="Profile views" />
+</p>
 
 </div>
 
-<br/>
+## 👋 About me
 
-## 🛠️ Tech Stack
+I'm a **Full Stack Developer** with 2.5+ years of hands-on experience building websites, web applications and e-commerce stores, from the database through to the interface people actually use.
 
-<div align="center">
+- 💼 Full Stack Developer at **Stratolution GmbH** (Munich, Germany), working remotely from India
+- ⚛️ Most of my work is on the **MERN stack**: MongoDB, Express.js, React.js and Node.js
+- 🐘 Server-side applications with **PHP & Laravel**
+- 🛒 Custom **WordPress** websites and **Shopify** stores & themes
+- 🔌 Designing and integrating **REST APIs**
+- 🤖 Using AI tools (ChatGPT, Claude, Copilot, Cursor) to build faster and smarter
+- 🌱 Currently exploring **Next.js** and advanced React patterns
+
+## 🛠️ Tech stack
 
 **Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma&theme=dark" />
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap&theme=dark" alt="React, Redux, JavaScript, HTML, CSS, Tailwind, Bootstrap" />
 
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,mysql&theme=dark" />
+**Backend & database**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql&theme=dark" alt="Node.js, Express, PHP, Laravel, MongoDB, MySQL" />
 
-**CMS, E-commerce & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/%20-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/%20-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/%20-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+**CMS & e-commerce**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /> &nbsp;<img src="https://img.shields.io/badge/Shopify-0B1E4A?style=for-the-badge&logo=shopify&logoColor=95BF47" height="48" alt="Shopify" />
 
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,heroku,netlify,vercel,git,github,npm&theme=dark" />
+**Tools**
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Git, GitHub, Figma" />
 
-<br/>
+## 📫 Let's connect
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a5c,50:12233e,100:0b1120&height=70&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
+I'm open to full-stack development roles and project collaborations, in India and internationally. Reach me on [LinkedIn](https://www.linkedin.com/in/sushantsharma-dev/) or at **sushantsharmafdev@gmail.com**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6BFF,50:0B1E4A,100:020510&height=110&section=footer" width="100%" alt="" />
