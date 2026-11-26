@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Sushant Sharma, Full Stack Developer">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#02050D"/>
+      <stop offset="0.65" stop-color="#08163A"/>
+      <stop offset="1" stop-color="#0E2760"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3D8BFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3D8BFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="m1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A3E8C"/>
+      <stop offset="1" stop-color="#0A1A42"/>
+    </linearGradient>
+    <linearGradient id="m2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10285E"/>
+      <stop offset="1" stop-color="#071433"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F4F7FF"/>
+      <stop offset="0.45" stop-color="#F4F7FF"/>
+      <stop offset="0.5" stop-color="#8DBBFF"/>
+      <stop offset="0.55" stop-color="#F4F7FF"/>
+      <stop offset="1" stop-color="#F4F7FF"/>
+      <animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .m{font-family:Consolas,'Courier New',monospace}
+      .fade1{opacity:0;animation:fi 1s ease-out .2s forwards}
+      .fade2{opacity:0;animation:fi 1s ease-out .8s forwards}
+      .fade3{opacity:0;animation:fi 1s ease-out 1.4s forwards}
+      @keyframes fi{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+      .s{animation:tw 3s ease-in-out infinite}
+      .s2{animation:tw 4.5s ease-in-out infinite 1s}
+      .s3{animation:tw 2.4s ease-in-out infinite .5s}
+      @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+      .pulse{animation:pl 6s ease-in-out infinite}
+      @keyframes pl{0%,100%{opacity:.6}50%{opacity:1}}
+      .cur{animation:bl 1s step-end infinite}
+      @keyframes bl{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <ellipse class="pulse" cx="930" cy="190" rx="430" ry="150" fill="url(#glow)"/>
+
+  <g fill="#D2E1FF">
+    <circle class="s" cx="60" cy="40" r="1.3"/><circle class="s2" cx="140" cy="95" r="1"/><circle class="s3" cx="230" cy="30" r="1.5"/>
+    <circle class="s2" cx="310" cy="70" r="1"/><circle class="s" cx="395" cy="22" r="1.2"/><circle class="s3" cx="470" cy="110" r="0.9"/>
+    <circle class="s" cx="560" cy="45" r="1.4"/><circle class="s2" cx="640" cy="18" r="1"/><circle class="s3" cx="715" cy="80" r="1.2"/>
+    <circle class="s" cx="790" cy="35" r="1"/><circle class="s2" cx="860" cy="60" r="1.5"/><circle class="s3" cx="935" cy="20" r="1"/>
+    <circle class="s" cx="1010" cy="75" r="1.2"/><circle class="s2" cx="1085" cy="30" r="1"/><circle class="s3" cx="1150" cy="90" r="1.4"/>
+    <circle class="s3" cx="95" cy="150" r="0.9"/><circle class="s" cx="1180" cy="140" r="1"/><circle class="s2" cx="20" cy="110" r="1"/>
+  </g>
+
+  <path d="M0 215 L70 200 L120 210 L190 175 L240 195 L300 168 L360 190 L430 160 L480 178 L560 150 L620 172 L690 140 L740 160 L800 118 L850 140 L900 92 L950 128 L1000 104 L1050 140 L1110 112 L1160 150 L1200 135 L1200 320 L0 320 Z" fill="url(#m1)"/>
+  <path d="M0 215 L70 200 L120 210 L190 175 L240 195 L300 168 L360 190 L430 160 L480 178 L560 150 L620 172 L690 140 L740 160 L800 118 L850 140 L900 92 L950 128 L1000 104 L1050 140 L1110 112 L1160 150 L1200 135" fill="none" stroke="#6EAAFF" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M0 255 L90 238 L170 250 L260 228 L340 246 L430 222 L520 242 L610 218 L700 238 L790 206 L870 226 L960 196 L1040 222 L1120 200 L1200 220 L1200 320 L0 320 Z" fill="url(#m2)"/>
+  <path d="M0 255 L90 238 L170 250 L260 228 L340 246 L430 222 L520 242 L610 218 L700 238 L790 206 L870 226 L960 196 L1040 222 L1120 200 L1200 220" fill="none" stroke="#4D96FF" stroke-opacity="0.35" stroke-width="1.2"/>
+  <path d="M0 290 L120 276 L260 292 L400 272 L540 290 L680 270 L820 288 L960 266 L1100 284 L1200 272 L1200 320 L0 320 Z" fill="#050C22"/>
+
+  <g class="fade1">
+    <rect x="80" y="74" width="28" height="2.5" fill="#3D8BFF"/>
+    <text x="120" y="80" class="m" font-size="15" letter-spacing="2.5" fill="#8DBBFF" font-weight="600">&lt;/&gt;  HELLO, I'M</text>
+  </g>
+  <g class="fade2">
+    <text x="78" y="148" class="t" font-size="62" font-weight="800" fill="url(#shine)">Sushant Sharma</text>
+  </g>
+  <g class="fade3">
+    <text x="80" y="190" class="t" font-size="24" font-weight="600" fill="#5AA0FF">Full Stack Developer <tspan fill="#4A6699">·</tspan> MERN <tspan fill="#4A6699">|</tspan> Laravel <tspan fill="#4A6699">|</tspan> WordPress <tspan fill="#4A6699">|</tspan> Shopify</text>
+    <text x="80" y="224" class="m" font-size="16" fill="#C3CEE6">building scalable web apps &amp; digital experiences<tspan class="cur" fill="#3D8BFF"> _</tspan></text>
+  </g>
+</svg>
